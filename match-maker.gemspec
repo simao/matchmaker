@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'matchmaker/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "matchmaker"
+  gem.name          = "match-maker"
   gem.version       = Matchmaker::VERSION
   gem.authors       = ["Simão Mata"]
   gem.email         = ["simao.m@gmail.com"]

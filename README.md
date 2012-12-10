@@ -132,7 +132,7 @@ end
 
 Add this line to your application's Gemfile:
 
-    gem 'matchmaker'
+    gem 'match-maker'
 
 And then execute:
 
@@ -140,7 +140,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install matchmaker
+    $ gem install match-maker
 
 ## Usage
 
